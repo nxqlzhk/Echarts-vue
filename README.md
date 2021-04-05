@@ -1,6 +1,6 @@
 # Echarts-vue
 
-koa-server 后台服务器
+koa_server 后台服务器
 
 vision vue项目
 
