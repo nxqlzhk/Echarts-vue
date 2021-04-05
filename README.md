@@ -1,5 +1,9 @@
 # Echarts-vue
 
+koa-server 后台服务器
+
+vision vue项目
+
 ### 电商平台数据可视化实时显示
 
 ##### 一.地区销量趋势折线图
