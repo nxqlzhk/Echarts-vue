@@ -2,7 +2,7 @@
 
 koa_server 后台服务器
 
-vision vue项目
+vue项目
 
 ### 电商平台数据可视化实时显示
 
